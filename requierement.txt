@@ -1,7 +1,0 @@
-matplotlib
-numpy
-pandas
-itertools
-seaborn
-pickle
-sklearn
